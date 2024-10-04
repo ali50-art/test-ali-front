@@ -1,0 +1,12 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/(protected)/dashboard/page": "app/(protected)/dashboard/page.js",
+  "/(protected)/leads/page": "app/(protected)/leads/page.js",
+  "/(protected)/settings/billing/page": "app/(protected)/settings/billing/page.js",
+  "/(protected)/welcome/page": "app/(protected)/welcome/page.js",
+  "/(protected)/settings/team/page": "app/(protected)/settings/team/page.js",
+  "/(public)/login/page": "app/(public)/login/page.js",
+  "/(public)/page": "app/(public)/page.js",
+  "/(public)/register/page": "app/(public)/register/page.js"
+}
